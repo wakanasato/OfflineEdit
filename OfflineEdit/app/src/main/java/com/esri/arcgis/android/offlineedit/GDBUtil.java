@@ -48,6 +48,10 @@ import java.io.FileFilter;
 import java.io.FileNotFoundException;
 import java.util.Map;
 
+/**
+*
+* satowakaEdit
+*/
 public class GDBUtil {
 
 //    static final String DEFAULT_FEATURE_SERVICE_URL = "http://services.arcgis.com/hRUr1F8lE8Jq2uJo/ArcGIS/rest/services/AppalachianTrailShelters/FeatureServer";
